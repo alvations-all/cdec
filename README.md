@@ -30,6 +30,8 @@ In addition to the standard `cdec` third party software requirements, you will a
 
 Instructions:
 
+    git clone git://github.com/redpony/cdec.git
+    cd cdec
     autoreconf -ifv
     ./configure
     make -j4
